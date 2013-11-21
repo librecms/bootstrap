@@ -1106,7 +1106,7 @@ pre code {
 
 @media (min-width: 768px) {
   .container {
-    width: 750px;
+    width: 810px;
   }
   .col-sm-1,
   .col-sm-2,
@@ -1278,7 +1278,7 @@ pre code {
 
 @media (min-width: 992px) {
   .container {
-    width: 970px;
+    width: 1090px;
   }
   .col-md-1,
   .col-md-2,
@@ -1450,7 +1450,7 @@ pre code {
 
 @media (min-width: 1200px) {
   .container {
-    width: 1170px;
+    width: 1230px;
   }
   .col-lg-1,
   .col-lg-2,
@@ -1953,6 +1953,7 @@ output {
 
 .form-control::-moz-placeholder {
   color: #999999;
+  opacity: 1;
 }
 
 .form-control:-ms-input-placeholder {
